@@ -1,7 +1,7 @@
 ## Sobre mim:
  - 🎉 21 Anos
 - 📍 Santa Catarina, Brasil
-- 📚 Estudante de Ciência da Computação (2° Semestre)
+- 📚 Estudante de Ciência da Computação (3° Semestre)
 
 ## Tecnologias/Ferramentas:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="40" height="40"/>
